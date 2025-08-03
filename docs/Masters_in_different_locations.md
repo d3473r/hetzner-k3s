@@ -15,7 +15,7 @@ Before you begin, make sure to back up all your applications and data! This is c
 
 ```yaml
 locations:
-- fns1
+- fsn1
 - hel1
 - nbg1
 ```
